@@ -1,0 +1,8 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Microsoft Word lock and temporary files
+~$*
+~WRL*.tmp
+~WRD*.tmp
